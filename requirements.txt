@@ -1,0 +1,5 @@
+starlette
+xcolor
+fastapi
+pydantic
+python-dotenv==0.12.0
